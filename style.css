@@ -10,7 +10,8 @@
 }
 .header2left{
     display: inline-block;
-    margin-bottom: auto;
+    
+    
     
     inline-size: 30%;
     font-family: 'Times New Roman', Times, serif
@@ -66,24 +67,51 @@ font-size: 25px
     height: 172px;
     margin: 3px;
     border-style: solid
-    
-}
-.ikincihisse{
-    display: ;
-    
 
 }
-.bloklar2.1{
- width: 40%;
+#ikincihisse{
+    display: flex;
+    margin-top: 25px;
 
 }
-.bloklar2.2{
+.blok1{
+    
+    display: inline-block;
     width: 30%;
-    border-style: solid
+    height: 220px
+
 }
-.bloklar2{
-    background-color: aqua;
-    width: 40%;
-    margin: 10px;
-    height: 250px;
+.blok2{
+
+    border-style: solid;
+    
+    display: inline-block;
+    width: 45%;
+    height: 220px;
+    margin-right: 3px;
+    margin-left: 3px;
+
 }
+.blok3{
+background-color: #8f9696;
+
+border-style: solid ;
+display: inline-block;
+    width: 23.7%;
+    height: 175px;
+}
+  /* ikinci section burda the end*/
+
+#footer{
+    display: inline-block;
+    margin-top: 25px;
+
+}
+.div{
+    display: inline-block;
+    width: 32.8%
+}
+
+  /* /*footer burda the end eliyir */ 
+
+  
